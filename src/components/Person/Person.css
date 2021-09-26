@@ -1,0 +1,10 @@
+.body-container{
+    display:flex;
+    justify-content: space-between;
+    margin-top:5px;
+}
+.left-side{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top:20px;
+}

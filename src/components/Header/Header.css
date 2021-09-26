@@ -1,0 +1,40 @@
+.nav-bar{
+   background-color: #eee;
+  display:flex;
+  justify-content: space-around;
+    padding:10px;
+}
+.nav-bar a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+   
+}
+.nav-bar a:hover{
+    background-color: lightgrey;
+    padding:10px;
+    border-radius: 5px;
+}
+.nav-bar input{
+    padding-right: 200px;
+    height:30px;
+    border-radius: 5px;
+
+}
+.search-button{
+    background-color: #4CAF50;
+  color: white;
+  padding: 8px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom:10px;
+}
+.top-section{
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+    color: rgba(0, 0, 255, 0.699);
+   margin: 5px 350px;
+}

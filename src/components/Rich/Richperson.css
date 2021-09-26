@@ -1,0 +1,34 @@
+.richman-container{
+    background-color: #eee;
+    border: 1px solid blue;
+    border-radius:8px;
+    margin:10px;
+    text-align:center;
+    width: 320px;
+    transition: 2s;
+}
+.richman-container:hover{
+    transform:scale(1.1)
+}
+.richman-container img{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.regular-btn{
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom:10px;
+}
+.icon-container {
+    display: flex;
+    justify-content: space-around;
+}
+.details-container{
+    line-height: 10px;
+}

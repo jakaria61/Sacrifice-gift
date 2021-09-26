@@ -1,0 +1,17 @@
+.right-side{
+    text-align:center;
+    margin-right: 10px;
+    color:rgba(0, 0, 255, 0.699);
+}
+.added-people{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color:#eee;
+    border-radius: 5px;
+    margin:10px;
+}
+.added-people img{
+    height:70px;
+    border-radius:5px
+}

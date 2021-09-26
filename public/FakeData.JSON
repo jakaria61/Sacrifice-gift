@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Bernard Arnault.",
+        "age": 71,
+        "Role": "CEO",
+        "img": "https://i.ibb.co/s5qfPc0/ba-comex-bis-660x974.png",
+        "country": "France",
+        "donate": 833333.33
+    },
+    {
+        "id": 2,
+        "name": "Elon Musk",
+        "age": 51,
+        "Role": "Engineer ",
+        "img": "https://i.ibb.co/C990K87/Elon-Musk-Royal-Society-crop1.png",
+        "country": "Canada",
+        "donate": 383000000
+    },
+    {
+        "id": 3,
+        "name": "Larry Ellison.",
+        "age": 77,
+        "Role": "CEO ",
+        "img": "https://i.ibb.co/dGJBTmy/Larry-Ellison-picture-1.png",
+        "country": "United States",
+        "donate": 483000000
+    },
+    {
+        "id": 4,
+        "name": "Jim Walton",
+        "age": 73,
+        "Role": "Chairman ",
+        "img": "https://i.ibb.co/HHDhjV2/walmart-holds-annual-multi-day-shareholders-meeting-in-arkansas-965568322-ebbdb926f99840f19e3cbacff3.png",
+        "country": "United States",
+        "donate": 453000000
+    },
+    {
+        "id": 5,
+        "name": "Steve Ballmer",
+        "age": 65,
+        "Role": "CEO ",
+        "img": "https://i.ibb.co/KVJ5nj8/steve-ballmer-444.png",
+        "country": "United States",
+        "donate": 283002000
+    },
+    {
+        "id": 6,
+        "name": "Mukesh Ambani",
+        "age": 64,
+        "Role": "Engineer ",
+        "img": "https://i.ibb.co/jyFLVjK/1627066748-4739.png",
+        "country": "India",
+        "donate": 823002000
+    },
+    {
+        "id": 7,
+        "name": "Sergey Brin",
+        "age": 48,
+        "Role": "CEO ",
+        "img": "https://i.ibb.co/60rb7WT/Vauhini-Google-Glass-147230457.png",
+        "country": "Russia",
+        "donate": 983002000
+    },
+    {
+        "id": 8,
+        "name": "Amancio Ortega",
+        "age": 85,
+        "Role": "Chairman ",
+        "img": "https://i.ibb.co/DMHWw5x/1594140690-2764.png",
+        "country": "Spain",
+        "donate": 5643002000
+    },
+    {
+        "id": 9,
+        "name": "Jeff Bezos",
+        "age": 57,
+        "Role": "Doctor",
+        "img": "https://i.ibb.co/2M1GFKZ/jeff-bezos-owns-1e.png",
+        "country": "United States",
+        "donate": 6343002000
+    },
+    {
+        "id": 10,
+        "name": "Syed Abul",
+        "age": 70,
+        "Role": "Businessman",
+        "img": "https://i.ibb.co/1Jp9J3z/Syed-Abul-Hossain.png",
+        "country": "Bangladesh",
+        "donate": 7843002000
+    },
+    {
+        "id": 11,
+        "name": "Giasuddin Mamun",
+        "age": 45,
+        "Role": "Director",
+        "img": "https://i.ibb.co/GpCbFGh/1556094371-3.png",
+        "country": "Bangladesh",
+        "donate": 4543002000
+    }
+]
